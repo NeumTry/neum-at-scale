@@ -2,6 +2,8 @@
 
 This repo contains a sample of a distributed architecture solution using Neum AI with Celery and Redis Queues. By design Neum AI as a framework provides constructs to parallelize workloads in order to process larger data sets. 
 
+![DALL·E 2023-11-21 19 03 39 - A vibrant and colorful logo design without any letters, creating a playful and abstract aesthetic  The design should feature a mix of bright, eye-catc](https://github.com/ddematheu/neum-at-scale/assets/10717976/42206fac-fdc9-4d12-9a30-a7ca673e4a83)
+
 ## Getting started
 
 To leverage this repo, you will need to install dependencies:
