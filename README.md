@@ -56,3 +56,5 @@ Once everything is running, we can now trigger out pipeline. This will distribut
 ```python
 python main.py
 ```
+
+![Command line GIF](neum-at-scale.gif)
