@@ -1,4 +1,4 @@
-# Neum AI - Sample Distributed Architecture
+# Neum AI - At Scale
 
 This repo contains a sample of a distributed architecture solution using Neum AI with Celery and Redis Queues. By design Neum AI as a framework provides constructs to parallelize workloads in order to process larger data sets. 
 
