@@ -12,9 +12,10 @@ To leverage this repo, you will need to install dependencies:
 pip install -r requirements.txt
 ```
 
+In addition:
 - Install the  the [redis CLI](https://redis.io/docs/install/install-redis/install-redis-on-linux/) to run it locally.
-- Open AI embeddings model for which you will need an Open AI API Key. To get an API Key visit **[OpenAI](https://platform.openai.com/signup)**. Make sure you have configured billing for the account.
-- Weaviate vector database for which you will need a Weaviate Cloud Service URL and API Key. To get a URL and API Key visit [Weaviate Cloud Service](notion://www.notion.so/neumai/Neum-AI-101-v2-f1f1d442990d46e7872d62553706c06b).
+- You will need an Open AI API Key for the OpenAI embedding model. To get an API Key visit **[OpenAI](https://platform.openai.com/signup)**. Make sure you have configured billing for the account.
+- You will need a Weaviate Cloud Service URL and API Key for the Weavaite vector database. To get a URL and API Key visit [Weaviate Cloud Service](notion://www.notion.so/neumai/Neum-AI-101-v2-f1f1d442990d46e7872d62553706c06b).
 
 ## Configure connectors
 
