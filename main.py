@@ -6,7 +6,6 @@ from neumai.Chunkers.RecursiveChunker import RecursiveChunker
 from neumai.Sources import SourceConnector
 from neumai.EmbedConnectors import OpenAIEmbed
 from neumai.SinkConnectors import WeaviateSink
-import json
 
 website_connector =  WebsiteConnector(
     url = "https://www.neum.ai/post/retrieval-augmented-generation-at-scale",

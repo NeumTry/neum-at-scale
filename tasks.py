@@ -6,8 +6,6 @@ from neumai.Shared.NeumDocument import NeumDocument
 from neumai.Sources.SourceConnector import SourceConnector
 from datetime import datetime
 from typing import List
-import redis
-import json
 
 app = Celery('tasks', broker="redis://localhost:6379/0")
 
