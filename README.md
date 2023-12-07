@@ -23,6 +23,9 @@ In the `main.py` file, you need to configure the Open AI and Weaviate connectors
 
 Alternatively, you can re-configure your pipeline by using [Neum AI connectors](https://docs.neum.ai/components/pipeline).
 
+## Architecture
+![image](https://github.com/NeumTry/neum-at-scale/assets/10717976/5734739a-36c5-4a81-a2a6-4f6ba95aa362)
+
 ## Run it locally
 
 To get everything ready to run our solution, we first need to get our `redis` queues running. To do this, we will use the `redis` CLI:
